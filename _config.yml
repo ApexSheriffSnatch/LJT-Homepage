@@ -9,7 +9,7 @@ baseurl                  : "/LJT-Homepage"
 repository               : "ApexSheriffSnatch/LJT-Homepage"
 
 author:
-  avatar           :
+  avatar           : "favicon.svg"
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year Ph.D. candidate in the HKUST NLP Group. His research focuses on natural language processing and machine learning, including LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
